@@ -35,7 +35,7 @@ public:
         cout << "Gross Salary  : $" << GrossSalary << endl;
         cout << "Tax (5%)      : $" << Tax << endl;
         cout << "Net Salary    : $" << NetSalary << endl;
-        cout << "===========================\n";
+        
     }
 };
 
