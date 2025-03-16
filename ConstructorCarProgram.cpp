@@ -53,7 +53,7 @@ int main (){
     Cars car1,car2("Toyota","Fortuner","Diesel",15.5, 700000);
     car1.displayData();
     car2.displayData();
-    Cars car3=car2; // copy cnostructor is called
+    Cars car3=car2; // copy constructor is called
     car3.displayData();
     return 0;
 }  
